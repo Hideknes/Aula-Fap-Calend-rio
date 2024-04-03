@@ -77,5 +77,8 @@ h1{
     background-color: brown;
 }
 a{
-    
+    text-decoration: none;
+    color: black;
+    background-color: pink;
+
 }
